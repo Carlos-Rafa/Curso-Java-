@@ -14,9 +14,6 @@ public class Exercicio13 {
 
         Cachorro maya = new Cachorro("Preto e Branco",19,4,4);
 
-        maya.abanarRabo();
-        maya.alimentar();
-        maya.locomover();
-        maya.enterrarOsso();
+
     }
 }
